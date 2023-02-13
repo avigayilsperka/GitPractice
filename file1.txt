@@ -1,7 +1,3 @@
-This is my second commit.
-I am changing this file. 
-I am changing this file. 
-I am changing this file. 
-I am changing this file. 
-I am changing this file. 
-I am changing this file.  
+This is my third commit.
+I deleted the other lines.
+
